@@ -1,7 +1,6 @@
 # Интернет-магазин по продаже роллов и суши / пример добавления товара в корзину
 
-![main picture](https://github.com/DennyMaverick/
-ScriptsForAnInternetStore/raw/main/img-for-readme/rolls.png)
+![main picture](https://github.com/DennyMaverick/ScriptsForAnInternetStore/raw/main/img-for-readme/rolls.png)
 
 <p class="modal-work__description">При работе над проектом был реализован следующий функционал:</p>
 
