@@ -2,6 +2,8 @@
 
 ![main picture](https://github.com/DennyMaverick/ScriptsForAnInternetStore/raw/main/img-for-readme/rolls.png)
 
+Данный проект был создан в рамках интенсива от школы по Web-разработке WebCademy.
+
 <p class="modal-work__description">При работе над проектом был реализован следующий функционал:</p>
 
 <ul class="modal-work__list modal-list">
